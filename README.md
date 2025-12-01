@@ -44,3 +44,5 @@ We focus especially on:
   https://www.stellar-app.net/es/how-it-works  
 
 Our goal is to combine **technology, transparency and recognition** to improve employability and decent work conditions.
+
+For more details, visit the official platform: https://www.stellar-app.net
